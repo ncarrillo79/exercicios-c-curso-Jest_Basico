@@ -1,0 +1,23 @@
+{
+  "name": "jestcode",
+  "version": "1.0.0",
+  "description": "Jest Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --env=node",
+    "test:coverage": "jest --coverage"
+  },
+  "keywords": [
+    "jest",
+    "testing"
+  ],
+  "author": "Norma Carrillo",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.2.4"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
